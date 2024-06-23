@@ -84,6 +84,49 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 ### Resume Template
 ![resume template](images/resume-template.JPG)
 
+### Whiteboarding Techniques
+```
+static void Main(string[] args)
+{
+    /*  1. Ask if resources are allowed (IntelliSense, Google, Stack Overflow, personal code, etc.)
+        2. Repeat the prompt back to the interviewer
+        3. Comment approach to solve prompt (MINIMALLY) 
+        4. Stub out basics (i.e. functions without implementation)
+        5. Complete code
+        6. Test code (include any common edge cases)
+        7. Overview of code and tests to interviewer
+        8. End prompt
+    */
+
+    /*  prompt: create a function that takes a positive number and 
+                outputs the whole numbers from zero to the number
+                but excludes the number 5
+    */
+
+    //func(int) returns bool if successful
+    bool printNumbers(int num)
+    {
+        // edge cases
+        if (num < 0) {
+            Console.WriteLine("Please input positive numbers only.");
+            return false;
+        }
+
+        Console.WriteLine("Printing numbers...");
+        // iterate from zero to number
+        for (int i = 0; i <= num; i++)
+            // if value == 5, do nothing
+            if (i != 5) Console.WriteLine(i);
+        return true;
+    }
+
+    printNumbers(0); // edge case if 0
+    printNumbers(4); // edge case if less than 5 (value to omit)
+    printNumbers(10); // regular test
+    printNumbers(-1); // edge case if input negative number by mistake
+}
+```
+
 [*^ back to top*](#top)
 
 <a id="resources"></a>
