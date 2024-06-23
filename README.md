@@ -66,7 +66,7 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 
 ### Commonly Used Data Types*
 | DataType | Size | Description |
-| ---- | --- | --- |
+| ---- | ------------- | --- |
 | int	| 4 bytes	| Stores whole numbers from -2,147,483,648 to 2,147,483,647
 | long	| 8 bytes	| Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 | float	| 4 bytes	| Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
