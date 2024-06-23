@@ -1,10 +1,15 @@
 <a id="top"></a>
 # Workshops
 
-1. [**Data Structures & Algorithms**](#dsa)
-2. [**C#/.NET & OOP**](#c-sharp)
-3. [**Career**](#career)
-4. [**Resources**](#resources)
+1. [**Introduction**](#intro)
+2. [**Data Structures & Algorithms**](#dsa)
+3. [**C#/.NET & OOP**](#c-sharp)
+4. [**Career Placement**](#career)
+5. [**Resources**](#resources)
+
+<a id="intro"></a>
+## Introduction
+Welcome to the Workshops homepage. Here you can find the resources for the workshops related to Data Structures & Algorithms, C#/.NET & OOP, and Career Placement. These resources are combined with weekly, live workshops designed to give new software developers the skills to successfully pass interviews and start their career path in development. Data Structures & Algorithms focuses on understanding Big O Notation for time and space complexity, the basics of commonly used data structures, general algorithm patterns, and how to successfully whiteboard these skills in an interview. C#/.NET & OOP focuses on understanding the basics of writing in C#, the basics of object-oriented programming (OOP), how to make models and controllers to connect a React front end to a SQL backend, and answering commonly asked interview questions. Career Placement focuses on creating an ATS-friendly resume, tips for applying to jobs through job boards and company websites, building a strong elevator pitch (aka "tell me about yourself"), mastering the STAR method for behavioral interview questions, and using mock interviews to prepare candidates to land a role as a software developer.
 
 <a id="dsa"></a>
 ## Data Structures & Algorithms
@@ -13,7 +18,7 @@
 ![Big O Notation Chart](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
 
 ### Data Structures*
-| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Time Complexity $~~~~~~~~~~~~~~~~~~~~~~~~~~$| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ |
+| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Time Complexity $~~~~~~~~~~~~~~~~~~~~~~~~~~$| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ |
 | ---- | --- | --- |
 
 | Data Structure | Access | Search | Insert | Delete | Space Complexity |
