@@ -81,6 +81,9 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 <a id="career"></a>
 ## Career
 
+### Resume Template
+![resume template](images/resume-template.JPG)
+
 [*^ back to top*](#top)
 
 <a id="resources"></a>
