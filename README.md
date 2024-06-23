@@ -12,7 +12,7 @@
 ### Big O Notation
 ![Big O Notation Chart](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
 
-### Data Structures
+### Data Structures*
 | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Time Complexity $~~~~~~~~~~~~~~~~~~~~~~~~~~$| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ |
 | ---- | --- | --- |
 
@@ -32,11 +32,12 @@
 | [Splay Tree](https://en.wikipedia.org/wiki/Splay_tree)  | $${\color{darkgray}N/A}$$ | $${\color{#6CBA04}O(log(n))}$$ | $${\color{#6CBA04}O(log(n))}$$ | $${\color{#6CBA04}O(log(n))}$$ | $${\color{#BCB800}O(n)}$$ |
 | [AVL Tree](https://en.wikipedia.org/wiki/AVL_tree)  | $${\color{#6CBA04}O(log(n))}$$ | $${\color{#6CBA04}O(log(n))}$$ | $${\color{#6CBA04}O(log(n))}$$ | $${\color{#6CBA04}O(log(n))}$$ | $${\color{#BCB800}O(n)}$$ |
 | [KD Tree](https://en.wikipedia.org/wiki/K-d_tree)  | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ |
+[**Courtesy of Bigocheatsheet.com*](https://www.bigocheatsheet.com/)
 
 [*^ back to top*](#top)
 
 
-### Array Sorting Algorithms
+### Array Sorting Algorithms*
 | Algorithm | Time Complexity | Space Complexity |
 | ---- | --- | --- |
 | [Quicksort](https://en.wikipedia.org/wiki/Quicksort) | $${\color{red}O(n^2)}$$ | $${\color{#6CBA04}O(log(n))}$$ |
@@ -52,10 +53,23 @@
 | [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort) | $${\color{green}O(nk)}$$ | $${\color{#BCB800}O(n+k)}$$ |
 | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) | $${\color{green}O(n+k)}$$ | $${\color{#BCB800}O(k)}$$ |
 | [Cubesort](https://en.wikipedia.org/wiki/Cubesort) | $${\color{darkorange}O(n\space log(n))}$$ | $${\color{#BCB800}O(n)}$$ |
+[**Courtesy of Bigocheatsheet.com*](https://www.bigocheatsheet.com/)
 
 [*^ back to top*](#top)
 <a id="c-sharp"></a>
 ## C#/.NET & OOP
+
+### Commonly Used Data Types*
+| DataType | Size | Description |
+| ---- | --- | --- |
+| int	| 4 bytes	| Stores whole numbers from -2,147,483,648 to 2,147,483,647
+| long	| 8 bytes	| Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+| float	| 4 bytes	| Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
+| double | 8 bytes	| Stores fractional numbers. Sufficient for storing 15 decimal digits
+| bool	| 1 bit	| Stores true or false values
+| char	| 2 bytes	| Stores a single character/letter, surrounded by single quotes
+| string	| 2 bytes | per character	Stores a sequence of characters, surrounded by double quotes
+[**Courtesy of W3Schools.com*](https://www.w3schools.com/cs/cs_data_types.php)
 
 [*^ back to top*](#top)
 
