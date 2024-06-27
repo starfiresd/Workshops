@@ -17,6 +17,12 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 ### Big O Notation
 ![Big O Notation Chart](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
 
+#### Big O Notation Content
+- [**Time Complexity**](https://github.com/starfiresd/Workshops/tree/13cc453448e80333b8fd96db78ab2e05f54c721d/data-structures-and-algorithms/Time%20Complexity%20(BigO%20Notation))
+
+[*^ back to top*](#top)
+
+---
 ### Data Structures*
 | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Time Complexity $~~~~~~~~~~~~~~~~~~~~~~~~~~$| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ |
 | ---- | --- | --- |
@@ -41,6 +47,7 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 
 [*^ back to top*](#top)
 
+---
 
 ### Array Sorting Algorithms*
 | Algorithm | Time Complexity | Space Complexity |
