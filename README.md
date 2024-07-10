@@ -2,10 +2,13 @@
 # Workshops
 
 1. [**Introduction**](#intro)
-2. [**Data Structures & Algorithms**](#dsa)
-3. [**C#/.NET & OOP**](#c-sharp)
-4. [**Career Placement**](#career)
-5. [**Resources**](#resources)
+2. [**Big O Notation**](#bigO)
+3. [**Data Structures**](#ds)
+4. [**Algorithms**](#algo)
+5. [**LeetCode**](#leet)
+6. [**C#/.NET & OOP**](#c-sharp)
+7. [**Career Placement**](#career)
+8. [**Resources**](#resources)
 
 <a id="intro"></a>
 ## Introduction
@@ -14,15 +17,17 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 <a id="dsa"></a>
 ## Data Structures & Algorithms
 
+<a id="bigO"></a>
 ### Big O Notation
 ![Big O Notation Chart](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
 
 #### Big O Notation Content
-- [**Time Complexity**](https://github.com/starfiresd/Workshops/tree/13cc453448e80333b8fd96db78ab2e05f54c721d/data-structures-and-algorithms/Time%20Complexity%20(BigO%20Notation))
+- [**Time Complexity**](https://github.com/starfiresd/Workshops/tree/main/data-structures-and-algorithms/time-complexity-big-o-notation)
 
 [*^ back to top*](#top)
 
 ---
+<a id="ds"></a>
 ### Data Structures*
 | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$  | $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Time Complexity $~~~~~~~~~~~~~~~~~~~~~~~~~~$| $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ |
 | ---- | --- | --- |
@@ -45,10 +50,13 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 | [KD Tree](https://en.wikipedia.org/wiki/K-d_tree)  | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ | $${\color{#BCB800}O(n)}$$ |
 [**Courtesy of Bigocheatsheet.com*](https://www.bigocheatsheet.com/)
 
+#### Data Structures Content
+- [**Code Examples**](https://github.com/starfiresd/Workshops/tree/main/data-structures-and-algorithms/data-structures)
+
 [*^ back to top*](#top)
 
 ---
-
+<a id="algo"></a>
 ### Array Sorting Algorithms*
 | Algorithm | Time Complexity | Space Complexity |
 | ---- | --- | --- |
@@ -66,6 +74,10 @@ Welcome to the Workshops homepage. Here you can find the resources for the works
 | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort) | $${\color{green}O(n+k)}$$ | $${\color{#BCB800}O(k)}$$ |
 | [Cubesort](https://en.wikipedia.org/wiki/Cubesort) | $${\color{darkorange}O(n\space log(n))}$$ | $${\color{#BCB800}O(n)}$$ |
 [**Courtesy of Bigocheatsheet.com*](https://www.bigocheatsheet.com/)
+
+<a id="leet"></a>
+#### Algorithm Content
+- [**LeetCode**](https://github.com/starfiresd/Workshops/tree/main/data-structures-and-algorithms/leet-code)
 
 [*^ back to top*](#top)
 <a id="c-sharp"></a>
