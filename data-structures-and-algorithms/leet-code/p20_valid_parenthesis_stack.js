@@ -21,7 +21,7 @@
  * Tags:
  *      Stack
  *
- * * BigO Notation (stack):
+ * BigO Notation (stack):
  *      Time complexity:  O(n)
  *      Space complexity: O(n)
  */
